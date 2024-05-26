@@ -1,6 +1,6 @@
-CREATE DATABASE `webapp2-db`;
+CREATE DATABASE webapp2-db;
 
-USE `webapp2-db`;
+USE webapp2-db;
 
 CREATE TABLE posts (
     userId INT,
